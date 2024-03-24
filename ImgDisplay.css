@@ -1,0 +1,14 @@
+.origine-img,
+.processed-img{
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+    flex-basis: 45%;
+}
+.img-display {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  

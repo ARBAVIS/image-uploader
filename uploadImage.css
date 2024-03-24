@@ -1,0 +1,11 @@
+.Upload-img {
+    margin-bottom: 20px;
+  }
+  
+  .Upload-img h2 {
+    margin-bottom: 10px;
+  }
+  
+  .Upload-img input[type='file'] {
+    margin-top: 10px;
+  }
